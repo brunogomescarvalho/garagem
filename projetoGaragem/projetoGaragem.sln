@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "garagem.consoleApp", "..\garagem.consoleApp\garagem.consoleApp.csproj", "{C84FEDE3-B4BC-44BA-AFCF-32C8B43A7247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "garagem.classes", "..\garagem.classes\garagem.classes.csproj", "{04A92AF8-A553-4078-BDD6-183845474921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "garagem.tests", "..\garagem.tests\garagem.tests.csproj", "{B3A39783-CC5C-476C-A361-D8E69E0103F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C84FEDE3-B4BC-44BA-AFCF-32C8B43A7247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84FEDE3-B4BC-44BA-AFCF-32C8B43A7247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84FEDE3-B4BC-44BA-AFCF-32C8B43A7247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84FEDE3-B4BC-44BA-AFCF-32C8B43A7247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A92AF8-A553-4078-BDD6-183845474921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A92AF8-A553-4078-BDD6-183845474921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A92AF8-A553-4078-BDD6-183845474921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A92AF8-A553-4078-BDD6-183845474921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A39783-CC5C-476C-A361-D8E69E0103F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A39783-CC5C-476C-A361-D8E69E0103F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A39783-CC5C-476C-A361-D8E69E0103F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A39783-CC5C-476C-A361-D8E69E0103F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

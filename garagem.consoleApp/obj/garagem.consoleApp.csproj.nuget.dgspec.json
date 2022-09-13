@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\TT\\algoParaTreinar\\projetoGaragem\\garagem.consoleApp\\garagem.consoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\TT\\algoParaTreinar\\projetoGaragem\\garagem.classes\\garagem.classes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TT\\algoParaTreinar\\projetoGaragem\\garagem.classes\\garagem.classes.csproj",
+        "projectName": "garagem.classes",
+        "projectPath": "C:\\TT\\algoParaTreinar\\projetoGaragem\\garagem.classes\\garagem.classes.csproj",
+        "packagesPath": "C:\\Users\\7brun\\.nuget\\packages\\",
+        "outputPath": "C:\\TT\\algoParaTreinar\\projetoGaragem\\garagem.classes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\7brun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\TT\\algoParaTreinar\\projetoGaragem\\garagem.consoleApp\\garagem.consoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TT\\algoParaTreinar\\projetoGaragem\\garagem.consoleApp\\garagem.consoleApp.csproj",
+        "projectName": "garagem.consoleApp",
+        "projectPath": "C:\\TT\\algoParaTreinar\\projetoGaragem\\garagem.consoleApp\\garagem.consoleApp.csproj",
+        "packagesPath": "C:\\Users\\7brun\\.nuget\\packages\\",
+        "outputPath": "C:\\TT\\algoParaTreinar\\projetoGaragem\\garagem.consoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\7brun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\TT\\algoParaTreinar\\projetoGaragem\\garagem.classes\\garagem.classes.csproj": {
+                "projectPath": "C:\\TT\\algoParaTreinar\\projetoGaragem\\garagem.classes\\garagem.classes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\obj\Debug\net5.0\garagem.classes.csproj.AssemblyReference.cache
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\obj\Debug\net5.0\garagem.classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\obj\Debug\net5.0\garagem.classes.AssemblyInfoInputs.cache
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\obj\Debug\net5.0\garagem.classes.AssemblyInfo.cs
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\obj\Debug\net5.0\garagem.classes.csproj.CoreCompileInputs.cache
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\bin\Debug\net5.0\garagem.classes.deps.json
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\bin\Debug\net5.0\garagem.classes.dll
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\bin\Debug\net5.0\garagem.classes.pdb
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\obj\Debug\net5.0\garagem.classes.dll
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\obj\Debug\net5.0\refint\garagem.classes.dll
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\obj\Debug\net5.0\garagem.classes.pdb
+C:\TT\algoParaTreinar\projetoGaragem\garagem.classes\obj\Debug\net5.0\ref\garagem.classes.dll
